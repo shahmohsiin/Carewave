@@ -1,4 +1,8 @@
-# 🏥 Carewave
+<p align="center">
+  <img src="./icon.png" alt="Carewave Logo" width="60"/>
+</p>
+
+<h1 align="center">Carewave</h1>
 
 **Carewave** is a modern, cross-platform healthcare application designed for a rural hospital to manage its two core services:  
 📅 Appointment Booking & 🧪 Blood Test Scheduling.
