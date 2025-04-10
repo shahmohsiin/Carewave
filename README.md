@@ -54,21 +54,12 @@ This application is split into two major parts for streamlined user and admin ex
 
 ## 🖼️ Screenshots
 
-> *(Add real screenshots for better visual appeal)*
-
-
-
-<table>
-  <tr>
-    <td><img src="./Carewave-main.jpg" alt="Client Home Screen" width="400" height="400"/></td>
-    <td><img src="./Carewave-book.jpg" alt="Booking Page" width="400" height="400"/></td>
-  </tr>
-  <tr>
-    <td><img src="./Carewave-admin.jpg" alt="Admin Panel View" width="400" height="400"/></td>
-    <td><img src="./Carewave-all-tests.jpg" alt="Admin Lists" width="400" height="400"/></td>
-  </tr>
-</table>
-
+<p align="center">
+  <img src="./Carewave-main.jpg" alt="Client Home Screen" width="300"/>
+  <img src="./Carewave-book.jpg" alt="Booking Page" width="300"/>
+  <img src="./Carewave-admin.jpg" alt="Admin Panel View" width="300"/>
+  <img src="./Carewave-all-tests.jpg" alt="Admin Lists" width="300"/>
+</p>
 
 ---
 
