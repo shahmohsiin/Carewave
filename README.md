@@ -56,11 +56,11 @@ This application is split into two major parts for streamlined user and admin ex
 
 > *(Add real screenshots for better visual appeal)*
 
-```
-📷 [Client Home Screen](./Carewave-admin.jpg)  
+
+📷 ![Client Home Screen](./Carewave-admin.jpg)  
 📷 [Booking Page]  
 📷 [Admin Panel View]  
-```
+
 
 ---
 
@@ -134,14 +134,6 @@ APP_ID=your_app_id
 3. See patient details like name, age, symptoms, date/time, and test type.
 4. Use “Mark Complete” or “Mark Incomplete” to update the status of services in real-time.
 5. The database updates automatically, reflecting the current status.
-
----
-
-## 🙋‍♂️ Author
-
-**Mohsin Shah**  
-🧑‍💻 Web & Mobile Developer | Passionate about clean design and meaningful tech  
-📬 [mohsindev798@gmail.com](mailto:mohsindev798@gmail.com)
 
 ---
 
