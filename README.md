@@ -55,10 +55,10 @@ This application is split into two major parts for streamlined user and admin ex
 ## 🖼️ Screenshots
 
 <p align="center">
-  <img src="./Carewave-main.jpg" alt="Client Home Screen" width="300"/>
-  <img src="./Carewave-book.jpg" alt="Booking Page" width="300"/>
-  <img src="./Carewave-admin.jpg" alt="Admin Panel View" width="300"/>
-  <img src="./Carewave-all-tests.jpg" alt="Admin Lists" width="300"/>
+  <img src="./Carewave-main.jpg" alt="Client Home Screen" width="200"/>
+  <img src="./Carewave-book.jpg" alt="Booking Page" width="200"/>
+  <img src="./Carewave-admin.jpg" alt="Admin Panel View" width="200"/>
+  <img src="./Carewave-all-tests.jpg" alt="Admin Lists" width="200"/>
 </p>
 
 ---
